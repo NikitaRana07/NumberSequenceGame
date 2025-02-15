@@ -1,4 +1,5 @@
 # NumberSequenceGame
+Try Me [here!](https://sunny-caramel-e67ab8.netlify.app/)
 Created in half an hour, because my mom asked, and I'm a momma's girl ^_^
 
 ## The ASK!
